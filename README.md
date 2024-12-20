@@ -1,4 +1,4 @@
-来自南京的前端打字员，公众号「前端下午茶」博主，慕课专栏[「JavaScript 设计模式精讲」](https://www.imooc.com/read/38)作者，在下的[博客](https://github.com/SHERlocked93/blog)都是学习过程中的总结，期待和大家共同进步～ 
+来自南京的CPP、前端程序员，公众号「CPP下午茶」「前端下午茶」博主，慕课专栏[「JavaScript 设计模式精讲」](https://www.imooc.com/read/38)作者，在下的[博客](https://github.com/SHERlocked93/blog)都是学习过程中的总结，期待和大家共同进步～ 
 
 
 

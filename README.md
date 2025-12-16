@@ -6,7 +6,7 @@
 2. 🍉 掘金专栏 https://juejin.im/user/5962fe1d6fb9a06bac5b9899/posts
 3. 🥝 SegmentFault 专栏 https://segmentfault.com/blog/sherlocked93
 4. 🧢 ![Linux](https://img.shields.io/static/v1?style=flat&logo=linux&label=Linux&message=C/CPP&color=#00599C)、![Vue](https://img.shields.io/static/v1?style=flat&logo=vue.js&label=FrontEnd&message=Vue2/3)、![React](https://img.shields.io/static/v1?style=flat&logo=react&label=FrontEnd&message=React17)
-5. 🛠️ ![VSC](https://img.shields.io/badge/Steam-171a21?style=flat&logo=VisualStudioCode&color=007ACC&logoColor=ffffff)、![Jetbrains Toolbox](https://img.shields.io/badge/Jetbrains-Toolbox-007ACC?style=flat-square&logo=intellij-idea&logoColor=ffffff)
+5. 🛠️ ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
 
 
 ![SHERlocked93's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHERlocked93&show_icons=true&theme=transparent)

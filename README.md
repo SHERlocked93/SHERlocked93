@@ -9,11 +9,10 @@
 5. 🛠️ ![VSC](https://img.shields.io/badge/Steam-171a21?style=flat&logo=VisualStudioCode&color=007ACC&logoColor=ffffff)、![Jetbrains Toolbox](https://img.shields.io/badge/Jetbrains-Toolbox-007ACC?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 
 
+![SHERlocked93's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHERlocked93&show_icons=true&theme=transparent)
 
-[![Anurag's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SHERlocked93&show_icons=true&show_owner=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHERlocked93&layout=compact)](https://github.com/SHERlocked93)
 
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SHERlocked93&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 PS： 欢迎大家关注我的公众号啊～
 
